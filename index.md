@@ -1,6 +1,6 @@
 ---
 layout: default
-title: John Smith | Cybersecurity Portfolio
+title: Joseph Kacvinsky | Cybersecurity Portfolio
 ---
 
 <header>
