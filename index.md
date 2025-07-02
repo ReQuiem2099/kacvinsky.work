@@ -13,7 +13,7 @@ title: Joseph Kacvinsky | Cybersecurity Portfolio
 <section class="hero">
   <div class="container hero-content">
     <div class="cyber-label">Cybersecurity Professional</div>
-    <h1>John Smith</h1>
+    <h1>Joseph Kacvinsky</h1>
     <h2>Cybersecurity Specialist &amp; Penetration Tester</h2>
     <p>
       Protecting digital infrastructures through advanced threat analysis and penetration testing.<br>
