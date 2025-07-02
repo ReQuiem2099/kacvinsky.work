@@ -14,7 +14,7 @@ title: Joseph Kacvinsky | Cybersecurity Portfolio
   <div class="container hero-content">
     <div class="cyber-label">Cybersecurity Professional</div>
     <h1>Joseph Kacvinsky</h1>
-    <h2>Cybersecurity Specialist &amp; Penetration Tester</h2>
+    <h2>Cybersecurity Engineer &amp; GRC Analyst</h2>
     <p>
       Protecting digital infrastructures through advanced threat analysis and penetration testing.<br>
       Specialized in enterprise security frameworks and vulnerability assessment.
