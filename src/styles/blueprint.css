@@ -1,0 +1,86 @@
+
+.blueprint-header {
+  background: #0a2342;
+  background-image: linear-gradient(135deg, #0a2342 80%, #1e3a5c 100%),
+    repeating-linear-gradient(0deg, #1e3a5c 0px, #1e3a5c 1px, transparent 1px, transparent 40px),
+    repeating-linear-gradient(90deg, #1e3a5c 0px, #1e3a5c 1px, transparent 1px, transparent 40px);
+  color: #fff;
+  padding: 3rem 0 2rem 0;
+  text-align: center;
+  position: relative;
+}
+.blueprint-bg {
+  position: relative;
+  z-index: 1;
+}
+.shield-icon {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+.header-content h1 {
+  font-size: 2.5rem;
+  margin: 0;
+}
+.header-content h2 {
+  font-size: 1.5rem;
+  margin: 0.5rem 0 1rem 0;
+  color: #7ecbff;
+}
+.header-content p {
+  font-size: 1.1rem;
+  color: #b3e0ff;
+}
+.main-content {
+  background: #fff;
+  padding: 2rem 0 0 0;
+}
+.stats-row {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+.stat-card {
+  background: #eaf6ff;
+  color: #0a2342;
+  border-radius: 1rem;
+  padding: 1rem 2rem;
+  font-weight: bold;
+  box-shadow: 0 2px 8px rgba(30,58,92,0.08);
+}
+.domain-cards {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+.domain-card {
+  background: #f5faff;
+  border: 1px solid #b3e0ff;
+  border-radius: 1rem;
+  padding: 1.5rem 1.5rem 1rem 1.5rem;
+  text-align: center;
+  min-width: 160px;
+  box-shadow: 0 2px 8px rgba(30,58,92,0.06);
+  transition: transform 0.2s, box-shadow 0.2s;
+  cursor: pointer;
+}
+.domain-card:hover {
+  transform: translateY(-6px) scale(1.04);
+  box-shadow: 0 6px 24px rgba(30,58,92,0.12);
+  border-color: #7ecbff;
+}
+.domain-card .icon {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+  display: block;
+}
+.blog-section {
+  background: #fff;
+  padding: 2rem 0;
+  border-top: 1px solid #eaf6ff;
+}
+.blog-section h2 {
+  color: #0a2342;
+  margin-bottom: 1.5rem;
+}
